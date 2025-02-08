@@ -1,0 +1,26 @@
+# Azure Windows VM Setup
+
+## 1. Create a Resource Group
+- Name: RG-Network-Activities
+- Region: Canada Central (Zone 1)
+
+## 2. Create a Windows 10 Virtual Machine
+- VM Name: Windows-VM
+- OS: Windows 10
+- Size: Standard D2s v3 (2 vCPUs, 8GB RAM)
+- Security Type: Trusted Launch
+
+## 3. Networking
+- Virtual Network: 1-vnet-lab
+- Subnet: Default
+- Public IP: Enabled
+- Private IP: 10.0.0.4
+
+## 4. Security Settings
+- Secure Boot: Enabled
+- vTPM: Enabled
+- Encryption: Not Enabled
+
+## 5. Additional Settings
+- Auto-Shutdown: Not Enabled
+- Availability Zone: 1

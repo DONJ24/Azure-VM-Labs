@@ -28,3 +28,9 @@ This project documents the setup of a **Windows 10 Virtual Machine in Microsoft 
 - **Azure Networking** (VNet, Subnet, Public/Private IPs)  
 - **Security Features** (Trusted Launch, Secure Boot, vTPM)  
 
+## Screenshots  
+Here’s how my Windows 10 VM looks in the Azure portal:  
+
+![Azure VM Screenshot](azure-vm.png)
+
+

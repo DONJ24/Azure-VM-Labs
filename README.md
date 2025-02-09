@@ -31,7 +31,9 @@ This project documents the setup of a **Windows 10 Virtual Machine in Microsoft 
 ## Screenshots  
 Here’s how my Windows 10 VM looks in the Azure portal:  
 
-![Azure VM Screenshot](https://github.com/DONJ24/Azure-VM-Labs/blob/main/azure-vm.png)
+[Windows-VM - Microsoft Azure.pdf](https://github.com/user-attachments/files/18725976/Windows-VM.-.Microsoft.Azure.pdf)
+
+
 
 
 

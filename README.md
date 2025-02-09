@@ -1,4 +1,4 @@
-# Azure VM Labs 
+# Azure VM Labs 🚀
 
 ## Description  
 This project documents the setup of a **Windows 10 Virtual Machine in Microsoft Azure**, including:  
@@ -27,3 +27,4 @@ This project documents the setup of a **Windows 10 Virtual Machine in Microsoft 
 - **Windows 10** (Virtual Machine OS)  
 - **Azure Networking** (VNet, Subnet, Public/Private IPs)  
 - **Security Features** (Trusted Launch, Secure Boot, vTPM)  
+
